@@ -2,7 +2,7 @@
 
 A submission for  [HUAWEI - 2020 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/devStarAI/algo/competition.html#/preliminary/info/digix-trail-03/introduction)
 
-**team** Melbourne dağları  
+**team:** Melbourne dağları  
 **members:** [@mustafahakkoz](https://github.com/mustafahakkoz), [@Aysenuryilmazz](https://github.com/Aysenuryilmazz)  
 **rank:** 94/ 343  
 **score (AUC):** 0.679876  
@@ -14,23 +14,23 @@ A submission for  [HUAWEI - 2020 DIGIX GLOBAL AI CHALLENGE](https://developer.hu
 
 ---
 
-#### Idea:
+#### Approach:
 
 The main ideas of the project are:
 
-1. Reading dataset with chunks and downcasting to fit into the memory.
+- Reading dataset with chunks and downcasting to fit into the memory.
 
-2. Target encoding with smoothing.
+- Target encoding with smoothing.
 
-3. SGD model with mini-batches.
+- SGD model with mini-batches.
 
-4. class_weights to balance classes.
+- class_weights to balance classes.
 
 Implementation details can be found in the document [DIGIX Implementation Instruction.docx](https://github.com/mustafahakkoz/Advertisement-CTR-Prediction/blob/master/DIGIX%20Implementation%20Instruction.docx "DIGIX Implementation Instruction.docx").
 
 ---
 
-#### Repo Content and Implementation:
+#### Repo Content and Implementation Steps:
 
 [1. read data](https://github.com/mustafahakkoz/Advertisement-CTR-Prediction/tree/master/1.%20read%20data "1. read data") 
 
@@ -68,6 +68,4 @@ Implementation details can be found in the document [DIGIX Implementation Instru
 
 - We also tried Decision Tree, XGBoost, catboost and lightGBM with several parameters but they didn’t work out due to memory errors.
 
-- This repo only contains of final versions. Experiments are implemented in kaggle platform. All of the notebooks including scratches also can be found in [this kaggle link](https://www.kaggle.com/hakkoz/notebooks) with `CTR` tag.
-
-
+- This repo only contains of final versions. Experiments are implemented in kaggle platform. All of the notebooks including scratches also can be found in [this kaggle link](https://www.kaggle.com/hakkoz/notebooks) with `CTR` tag in the name.
