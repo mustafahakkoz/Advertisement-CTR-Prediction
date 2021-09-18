@@ -80,10 +80,9 @@ Implementation details can be found in the document [DIGIX Implementation Instru
 	a. [**Trying out Target encoding and smoothing**](https://www.kaggle.com/hakkoz/ctr-3-targetencoding-smoothing)
 	
 	b. [**Trying out KFfold Target Encoding to reduce overfitting**](https://www.kaggle.com/hakkoz/ctr-3-targetencoding-kfold/)
+4.	a. [**Trying out XGBoost but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-defaultxgboost/)
 
-4.1. a) [**Trying out XGBoost but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-defaultxgboost/)
-
-4.2. b) [**Trying out DT but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-dt)
+	b. [**Trying out DT but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-dt)
 
 5. a) [**Splitting Dataset into 4 parts-1 [deleted]**]
 5. b) [**Splitting Dataset into 4 parts-2 [deleted]**]
