@@ -78,6 +78,7 @@ Implementation details can be found in the document [DIGIX Implementation Instru
 2. [**Reading whole dataset by chunks, downcasting and shuffling**](https://www.kaggle.com/hakkoz/ctr-2-read-data)
 3.
 	a. [**Trying out Target encoding and smoothing**](https://www.kaggle.com/hakkoz/ctr-3-targetencoding-smoothing)
+	
 	b. [**Trying out KFfold Target Encoding to reduce overfitting**](https://www.kaggle.com/hakkoz/ctr-3-targetencoding-kfold/)
 
 4.1. a) [**Trying out XGBoost but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-defaultxgboost/)
