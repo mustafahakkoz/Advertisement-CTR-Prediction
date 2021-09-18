@@ -83,22 +83,34 @@ Implementation details can be found in the document [DIGIX Implementation Instru
 4.	a. [**Trying out XGBoost but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-defaultxgboost/)
 
 	b. [**Trying out DT but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-dt)
+5.	a. [**Splitting Dataset into 4 parts-1 [deleted]**]
+	
+	b. [**Splitting Dataset into 4 parts-2 [deleted]**]
 
-5. a) [**Splitting Dataset into 4 parts-1 [deleted]**]
-5. b) [**Splitting Dataset into 4 parts-2 [deleted]**]
-5. c) [**Splitting Dataset into 4 parts-3**](https://www.kaggle.com/hakkoz/ctr-5-targetencoding-smoothing-3)
-5. d) [**Splitting Dataset into 4 parts-4**](https://www.kaggle.com/hakkoz/ctr-5-targetencoding-smoothing-4)
-5. e) [**Trying out XGBoost with batches but failed since boosting cannot work with different datasets**](https://www.kaggle.com/hakkoz/ctr-5-defaultxgboost-batch/)
-6. a) [**Creating test set, encoding map dictionary, datatype dictionary for reading data by chunks**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-0)
-6. b) [**Splitting train set by chunk size of 5M-1**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-1)
-6. c) [**Splitting train set by chunk size of 5M-2**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-1-5)
-6. d) [**Splitting train set by chunk size of 5M-3**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-2)
-6. e) [**Splitting train set by chunk size of 5M-4**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-2-5)
-6. f) [**Splitting train set by chunk size of 5M-5**](https://www.kaggle.com/aysenur95/ctr-train-test-split-3)
-6. g) [**Splitting train set by chunk size of 5M-6**](https://www.kaggle.com/aysenur95/ctr-train-test-split-3-5)
-6. h) [**Splitting train set by chunk size of 5M-7**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-4v2)
-6. i) [**Splitting train set by chunk size of 5M-8**](https://www.kaggle.com/aysenur95/ctr-train-test-split-4-5)
-6. j) [**Training SGD model by chunks with class_weights, testing the model then refitting whole data**](https://www.kaggle.com/hakkoz/ctr-6-split-sgd-batch-class-weight)
+	c. [**Splitting Dataset into 4 parts-3**](https://www.kaggle.com/hakkoz/ctr-5-targetencoding-smoothing-3)
+	
+	d. [**Splitting Dataset into 4 parts-4**](https://www.kaggle.com/hakkoz/ctr-5-targetencoding-smoothing-4)
+	
+	e. [**Trying out XGBoost with batches but failed since boosting cannot work with different datasets**](https://www.kaggle.com/hakkoz/ctr-5-defaultxgboost-batch/)
+6.	a. [**Creating test set, encoding map dictionary, datatype dictionary for reading data by chunks**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-0)
+	
+	b. [**Splitting train set by chunk size of 5M-1**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-1)
+
+	c. [**Splitting train set by chunk size of 5M-2**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-1-5)
+
+	d. [**Splitting train set by chunk size of 5M-3**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-2)
+	
+	e. [**Splitting train set by chunk size of 5M-4**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-2-5)
+
+	f. [**Splitting train set by chunk size of 5M-5**](https://www.kaggle.com/aysenur95/ctr-train-test-split-3)
+
+	g. [**Splitting train set by chunk size of 5M-6**](https://www.kaggle.com/aysenur95/ctr-train-test-split-3-5)
+
+	h. [**Splitting train set by chunk size of 5M-7**](https://www.kaggle.com/hakkoz/ctr-6-train-test-split-4v2)
+
+	i. [**Splitting train set by chunk size of 5M-8**](https://www.kaggle.com/aysenur95/ctr-train-test-split-4-5)
+
+	j. [**Training SGD model by chunks with class_weights, testing the model then refitting whole data**](https://www.kaggle.com/hakkoz/ctr-6-split-sgd-batch-class-weight)
 7. [**Predictions and the submission**](https://www.kaggle.com/hakkoz/ctr-7-predict-submission-datasets)
 
 
