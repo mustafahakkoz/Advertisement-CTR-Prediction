@@ -83,9 +83,9 @@ Implementation details can be found in the document [DIGIX Implementation Instru
 4.	a. [**Trying out XGBoost but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-defaultxgboost/)
 
 	b. [**Trying out DT but failed due to memory issues**](https://www.kaggle.com/hakkoz/ctr-4-dt)
-5.	a. [**Splitting Dataset into 4 parts-1 [deleted]**]
+5.	a. **Splitting Dataset into 4 parts-1 [deleted]**
 	
-	b. [**Splitting Dataset into 4 parts-2 [deleted]**]
+	b. **Splitting Dataset into 4 parts-2 [deleted]**
 
 	c. [**Splitting Dataset into 4 parts-3**](https://www.kaggle.com/hakkoz/ctr-5-targetencoding-smoothing-3)
 	
